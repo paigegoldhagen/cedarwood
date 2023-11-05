@@ -37,7 +37,7 @@ pip install --no-binary :all: pyodbc
 ```
 
 ## Running the app (macOS)
-1. Download the [latest release](https://github.com/paigegoldhagen/astral/releases/latest)
+1. Download the [latest release](https://github.com/paigegoldhagen/cedarwood/releases/latest)
 2. Extract the .zip file
 3. Launch `cedarwood_applesilicon` or `cedarwood_intel` executable
 
